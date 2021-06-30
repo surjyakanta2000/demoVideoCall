@@ -19,7 +19,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/amirsanni/livestream-server.git"
+    "url": "git+https://github.com/surjyakanta2000/demoVideoCall.git"
   },
   "keywords": [
     "LiveStream",
@@ -28,7 +28,7 @@
   "author": "Amir Sanni <amirsanni@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/amirsanni/livestream-server/issues"
+    "url": "https://github.com/surjyakanta2000/demoVideoCall/issues"
   },
-  "homepage": "https://github.com/amirsanni/livestream-server#readme"
+  "homepage": "https://github.com/surjyakanta2000/demoVideoCall.git#readme"
 }
