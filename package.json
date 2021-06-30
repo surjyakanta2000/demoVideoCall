@@ -25,8 +25,7 @@
     "LiveStream",
     "Server"
   ],
-  "author": "Amir Sanni <amirsanni@gmail.com>",
-  "license": "ISC",
+
   "bugs": {
     "url": "https://github.com/surjyakanta2000/demoVideoCall/issues"
   },
